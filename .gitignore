@@ -1,0 +1,14 @@
+# Виртуальное окружение
+venv/
+.env/
+
+# Кэш Python
+__pycache__/
+*.py[cod]
+*.class
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
